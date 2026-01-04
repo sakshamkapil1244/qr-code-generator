@@ -17,7 +17,7 @@ You can view the live project here:
 👉 [https://sakshamkapil1244.github.io/qr-code-generator/](https://sakshamkapil1244.github.io/qr-code-generator/)
 
 ## 📸 Screenshots
-![Project Preview](./screenshots/app-preview.png)
+![Project Preview](./app-preview.png)
 
 
 👤 Author
