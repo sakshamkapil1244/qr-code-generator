@@ -26,6 +26,4 @@ GitHub: https://github.com/sakshamkapil1244
 
 LinkedIn: https://www.linkedin.com/in/saksham-kapil-790b16298
 
-GitHub: @sakshamkapil1244
 
-LinkedIn: linkedin.com/in/saksham-kapil
